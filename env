@@ -1,0 +1,19 @@
+# MongoDB Connection
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/rbxog?retryWrites=true&w=majority
+
+# JWT Secret
+JWT_SECRET=your_super_secret_key_here_change_this
+
+# Server Port
+PORT=3000
+
+# CPA Network Settings
+CPA_NETWORK=ogads
+CPA_POSTBACK_SECRET=your_postback_secret
+
+# Roblox Group Settings
+ROBLOX_GROUP_ID=your_group_id
+ROBLOX_COOKIE=your_roblox_cookie
+
+# Admin Settings
+ADMIN_KEY=your_admin_secret_key
